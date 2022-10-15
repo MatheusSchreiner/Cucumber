@@ -1,6 +1,6 @@
 #language: pt
 
-Funcionalidade: Primeira Funcionalidade
+Funcionalidade: Terceira Funcionalidade
 
 
   Esquema do Cenario: Soma respondendo corretamente

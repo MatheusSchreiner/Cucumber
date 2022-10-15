@@ -24,6 +24,8 @@ public class VariaveisFeature {
   public void deuTudoOk(String arg) {
     if (arg.equals("OK")) {
       System.out.println(arg);
+    } else {
+      throw new Exception();
     }
   }
 

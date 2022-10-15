@@ -11,7 +11,7 @@ Funcionalidade: Hooks and Tags
 
   @tag
   Cenario: Este cenario ira rodar o segundo Before apenas uma vez
-    Dado que estou utilizando a tag tag
+    Dado que estou utilizando a tag
 
   @token
   Cenario: Com hook

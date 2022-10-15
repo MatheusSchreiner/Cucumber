@@ -1,6 +1,6 @@
 #language: pt
 
-Funcionalidade: Primeira Funcionalidade
+Funcionalidade: Segunda Funcionalidade
 
   Cenario:Soma respondendo corretamente
     Quando joazinho soma 2 + 2
